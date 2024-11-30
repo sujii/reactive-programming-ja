@@ -2,6 +2,7 @@
 #### Japanese translation of wikipedia reactive-programming
 
 English: https://en.wikipedia.org/wiki/Reactive_programming
+Japanese(this): https://ja.wikipedia.org/wiki/%E3%83%AA%E3%82%A2%E3%82%AF%E3%83%86%E3%82%A3%E3%83%96%E3%83%97%E3%83%AD%E3%82%B0%E3%83%A9%E3%83%9F%E3%83%B3%E3%82%B0
 
 **リアクティブプログラミング** は、 データストリームやその変化を効果的に扱うための宣言的プログラミングパラダイムです。 このパラダイムでは、 静的な配列や動的なイベントストリームなどのデータを簡単に表現できます。 また、
 データの変化が自動的に関連する処理に伝播する仕組みを提供します。 この自動的な伝播は、 プログラマーが手動で変更を監視して処理を更新する必要を排除します。
